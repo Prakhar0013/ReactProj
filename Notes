@@ -1,0 +1,8 @@
+Complex frontend
+State is managed by JavaScript, UI is managed by DOM
+But there was an issue in synch between the two
+
+React worked consistently
+
+React dom for web dev
+React native for android
